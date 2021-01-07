@@ -1,0 +1,7 @@
+C:\Users\LENOVO\source\repos\karşılaştırOrtala\karşılaştırOrtala\bin\Debug\karşılaştırOrtala.exe.config
+C:\Users\LENOVO\source\repos\karşılaştırOrtala\karşılaştırOrtala\bin\Debug\karşılaştırOrtala.exe
+C:\Users\LENOVO\source\repos\karşılaştırOrtala\karşılaştırOrtala\bin\Debug\karşılaştırOrtala.pdb
+C:\Users\LENOVO\source\repos\karşılaştırOrtala\karşılaştırOrtala\obj\Debug\karşılaştırOrtala.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\karşılaştırOrtala\karşılaştırOrtala\obj\Debug\karşılaştırOrtala.exe
+C:\Users\LENOVO\source\repos\karşılaştırOrtala\karşılaştırOrtala\obj\Debug\karşılaştırOrtala.pdb
+C:\Users\LENOVO\source\repos\karşılaştırOrtala\karşılaştırOrtala\obj\Debug\karşılaştırOrtala.csprojAssemblyReference.cache
